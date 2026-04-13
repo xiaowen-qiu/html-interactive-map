@@ -820,15 +820,7 @@ function initMap() {
           },
           content: "Monroe Township Public School District",
         },
-        {
-          coords: { lat: 39.86904204405873, lng: -75.24454202528933 },
-          iconImage: {
-            url:
-              "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
-            scaledSize: new google.maps.Size(30, 30),
-          },
-          content: "Paulsboro School District",
-        },
+       
         {
           coords: { lat: 39.76134408745302, lng: -75.14453689873672 },
           iconImage: {
@@ -1749,14 +1741,7 @@ function initMap() {
                           },
                           content: "Pompton Lakes School District",
                           },
-                          {
-                          coords: { lat: 40.95397399181271, lng: -74.2509339302312 },
-                          iconImage: {
-                          url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
-                          scaledSize: new google.maps.Size(30, 30),
-                          },
-                          content: "Wayne Township Public School District",
-                          },
+                         
                           {
                           coords: { lat: 41.15067203135409, lng: -74.36421050369893 },
                           iconImage: {
@@ -2290,14 +2275,7 @@ function initMap() {
                                     content: "North Warren Regional School District",
                                     },
 
-                                     {
-                                    coords: { lat: 41.01311719776743, lng: -74.56261112252879 },
-                                    iconImage: {
-                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
-                                    scaledSize: new google.maps.Size(30, 30),
-                                    },
-                                    content: "Jefferson Township Public School District",
-                                    },
+                                
 
                                      {
                                     coords: { lat: 39.95809190772923, lng: -74.61552146899918 },
@@ -2308,50 +2286,13 @@ function initMap() {
                                     content: "Pemberton Township School District",
                                     },
 
-                                     {
-                                    coords: { lat: 40.71799686835619, lng: -74.05857453074739 },
-                                    iconImage: {
-                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
-                                    scaledSize: new google.maps.Size(30, 30),
-                                    },
-                                    content: "Beloved Community Charter",
-                                    },
+                                    
 
-                                     {
-                                    coords: { lat: 39.909033393279785, lng: -74.1884594314056 },
-                                    iconImage: {
-                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
-                                    scaledSize: new google.maps.Size(30, 30),
-                                    },
-                                    content: "Central Regional School District",
-                                    },
+                                
 
-                                    {
-                                    coords: { lat: 40.2659379472689, lng: -74.79036832254346 },
-                                    iconImage: {
-                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
-                                    scaledSize: new google.maps.Size(30, 30),
-                                    },
-                                    content: "Ewing Township School District",
-                                    },
+                
 
-                                     {
-                                    coords: { lat: 40.10402044341453, lng: -74.7924101258952 },
-                                    iconImage: {
-                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
-                                    scaledSize: new google.maps.Size(30, 30),
-                                    },
-                                    content: "Florence Township School District",
-                                    },
 
-                                     {
-                                    coords: { lat: 39.8274414331418, lng: -75.15804211932452 },
-                                    iconImage: {
-                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
-                                    scaledSize: new google.maps.Size(30, 30),
-                                    },
-                                    content: "Gateway Regional High School District",
-                                    },
 
                                      {
                                     coords: { lat: 40.851640729951825, lng: -74.83208583619503 },
@@ -2362,13 +2303,159 @@ function initMap() {
                                     content: "Hackettstown Public School District",
                                     },
 
-                                    
+                                    {
+                                    coords: { lat: 40.89530238601542, lng: -74.04069909491861 },
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Bergen Arts and Science Charter School",
+                                    },
+ {
+                                    coords: { lat: 41.01590246631104, lng: -74.12623427395177},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Waldwick School District",
+                                    },
 
+                                    {
+                                    coords: { lat: 40.036088329968386, lng: -74.82442318928301},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Burlington County Institute of Technology School District",
+                                    },
+                                  
+                                   {
+                                    coords: { lat: 39.95794699480229, lng: -75.08574142085999},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Camden's Promise Charter School",
+                                    },
                                       
+                                       {
+                                    coords: { lat: 39.90568859021639, lng: -75.05781619020289},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Haddon Township School District",
+                                    },
+                                          
+                                   {
+                                    coords: { lat: 39.93907121975755, lng: -75.1195638740771},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "KIPP: Cooper Norcross A New Jersey Nonprofit Corporation",
+                                    },
+             
+                                   {
+                                    coords: { lat: 39.37347621882313, lng: -75.05745122109175},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Millville School District",
+                                    },
+                                  {
+                                    coords: { lat: 40.71137442153726, lng: -74.20277119160714},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "TEAM Academy Charter School",
+                                    },
 
+                                   {
+                                    coords: { lat: 39.74491250749219, lng: -75.17909150018448},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Clearview Regional High School District",
+                                    },
+                                  {
+                                    coords: { lat: 40.22420925651175, lng: -75.17909150018448},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Foundation Academy Charter School",
+                                    },
+        {
+                                    coords: { lat: 39.74491250749219, lng: -74.77681745270294},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Robbinsville Public School District",
+                                    },
 
-                              
-                              
+        {
+                                    coords: { lat: 40.232954227373824, lng: -74.78213781954184},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Trenton Stem-to-Civics Charter School",
+                                    },
+
+                          
+        {
+                                    coords: { lat: 39.622574599880615, lng: -74.35944350826746},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Pinelands Regional School District",
+                                    },
+                                {
+                                    coords: { lat: 41.00423430430811, lng: -74.2850524396283},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Pompton Lakes School District",
+                                    },
+                                {
+                                    coords: { lat: 41.00423430430811, lng: -74.2850524396283},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Salem County Vocational Technical School District",
+                                    },
+                                {
+                                    coords: { lat: 41.10806966711919, lng: -74.76416189247813},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Kittatinny Regional School District",
+                                    },
+                                {
+                                    coords: { lat: 40.920763720632706, lng: -74.69802876063548},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Lenape Valley Regional High School District",
+                                    },
+                                {
+                                    coords: { lat: 41.05573711474651, lng: -74.75071745925369},
+                                    iconImage: {
+                                    url: "https://i.ibb.co/yd590gr/seal-of-biliteracy-removebg-preview.png",
+                                    scaledSize: new google.maps.Size(30, 30),
+                                    },
+                                    content: "Newton Public School District",
+                                    },
                               
                               
                               
